@@ -1,0 +1,3 @@
+﻿  doubly_linkedlist.cpp
+c:\users\salvador_villalon\source\repos\doubly_linkedlist\doubly_linkedlist\doubly_linkedlist.cpp(179): warning C4715: 'DoublyLinkedList::index': not all control paths return a value
+  doubly_linkedlist.vcxproj -> C:\Users\salvador_villalon\source\repos\doubly_linkedlist\Debug\doubly_linkedlist.exe
