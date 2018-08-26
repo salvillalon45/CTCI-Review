@@ -1,2 +1,16 @@
 ﻿  main.cpp
+  singly_linkedlist.cpp
+c:\users\salvador_villalon\source\repos\singly_linkedlist\singly_linkedlist\singly_linkedlist.cpp(353): warning C4018: '<': signed/unsigned mismatch
+c:\users\salvador_villalon\source\repos\singly_linkedlist\singly_linkedlist\singly_linkedlist.cpp(458): warning C4018: '<': signed/unsigned mismatch
+c:\users\salvador_villalon\source\repos\singly_linkedlist\singly_linkedlist\singly_linkedlist.cpp(467): warning C4018: '<': signed/unsigned mismatch
+c:\users\salvador_villalon\source\repos\singly_linkedlist\singly_linkedlist\singly_linkedlist.cpp(510): warning C4018: '<': signed/unsigned mismatch
+c:\users\salvador_villalon\source\repos\singly_linkedlist\singly_linkedlist\singly_linkedlist.cpp(515): warning C4018: '<': signed/unsigned mismatch
+c:\users\salvador_villalon\source\repos\singly_linkedlist\singly_linkedlist\singly_linkedlist.cpp(531): warning C4018: '<': signed/unsigned mismatch
+c:\users\salvador_villalon\source\repos\singly_linkedlist\singly_linkedlist\singly_linkedlist.cpp(551): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\salvador_villalon\source\repos\singly_linkedlist\singly_linkedlist\singly_linkedlist.cpp(190): warning C4715: 'SinglyLinkedList::get_first_node': not all control paths return a value
+c:\users\salvador_villalon\source\repos\singly_linkedlist\singly_linkedlist\singly_linkedlist.cpp(585): warning C4715: 'SinglyLinkedList::palindrome': not all control paths return a value
+c:\users\salvador_villalon\source\repos\singly_linkedlist\singly_linkedlist\singly_linkedlist.cpp(618): warning C4715: 'SinglyLinkedList::loop_detection': not all control paths return a value
+c:\users\salvador_villalon\source\repos\singly_linkedlist\singly_linkedlist\singly_linkedlist.cpp(421): warning C4715: 'SinglyLinkedList::return_kth_to_last_position': not all control paths return a value
+c:\users\salvador_villalon\source\repos\singly_linkedlist\singly_linkedlist\singly_linkedlist.cpp(220): warning C4715: 'SinglyLinkedList::index': not all control paths return a value
   singly_linkedlist.vcxproj -> C:\Users\salvador_villalon\source\repos\singly_linkedlist\Debug\singly_linkedlist.exe
