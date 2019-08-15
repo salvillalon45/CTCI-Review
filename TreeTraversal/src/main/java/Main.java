@@ -24,24 +24,29 @@ public class Main {
         root.right.left = new TreeNode(45);
         root.right.right = new TreeNode(70);
 
-        System.out.println("PreOrder Tree Traversal");
-        PreOrderTreeTraversal.preOrder(root);
+//        System.out.println("PreOrder Tree Traversal");
+//        PreOrderTreeTraversal.preOrder(root);
+//
+//        System.out.println(" ");
+//        System.out.println(" ");
+//        System.out.println("PostOrder Tree Traversal");
+//        PostOrderTreeTraversal.postOrder(root);
+//
+//        System.out.println(" ");
+//        System.out.println(" ");
+//        System.out.println("InOrder Tree Traversal");
+//        InOrderTreeTraversal.inOrder(root);
+//
+//        System.out.println(" ");
+//        System.out.println(" ");
+//        System.out.println("LevelOrder Tree Traversal");
+//        LevelOrderTreeTraversal.levelOrder(root);
+
 
         System.out.println(" ");
         System.out.println(" ");
-        System.out.println("PostOrder Tree Traversal");
-        PostOrderTreeTraversal.postOrder(root);
-
-        System.out.println(" ");
-        System.out.println(" ");
-        System.out.println("InOrder Tree Traversal");
-        InOrderTreeTraversal.inOrder(root);
-
-        System.out.println(" ");
-        System.out.println(" ");
-        System.out.println("LevelOrder Tree Traversal");
-        LevelOrderTreeTraversal.levelOrder(root);
-
+        System.out.println("Print BST in descending order");
+        PrintoutBST.printBST(root);
 
     }
 }
