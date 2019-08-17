@@ -1,5 +1,5 @@
 public class InOrderTreeTraversal {
-    public static void inOrder(Main.TreeNode node) {
+    public static void inOrder(TreeNode node) {
         if (node == null) {
             return;
         }
