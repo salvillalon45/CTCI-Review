@@ -3,6 +3,15 @@ import java.util.Queue;
 
 public class LevelOrderTreeTraversal {
 
+    /**
+     *
+     * Description:
+     * To perform Lever Order traversal we use a Queue. This queue helps us keep the order of the
+     * nodes from left to right order
+     *
+     * Time Complexity: Theta(n) since we are visiting each node in the tree
+     * Space Complexity: O(w) since it depends on how wide the tree will be
+     */
     public static void levelOrder(TreeNode node) {
         Queue<TreeNode> queue = new LinkedList<>();
 

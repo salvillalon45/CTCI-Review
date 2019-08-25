@@ -7,6 +7,9 @@ public class PreOrderTreeTraversal {
      * Description:
      * This is the PreOrder Tree Traversal using Recursion
      *
+     * Time Complexity: Theta(n) since we are visiting all nodes to do this operation
+     * Space Complexity: O(h) since it depends on how tall the tree is and how far we have to go down
+     *
      */
     public static void preOrder(TreeNode node) {
         if (node == null) {
@@ -23,6 +26,9 @@ public class PreOrderTreeTraversal {
      *
      * Description:
      * This is the PreOrder Tree Traversal using Iteration
+     *
+     * Time Complexity: Theta(n) since we are visiting all nodes to do this operation
+     * Space Complexity: O(h) since it depends on how tall the tree is and how far we have to go down
      *
      */
     public static void iterativePreOrder(TreeNode node) {

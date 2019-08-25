@@ -8,6 +8,9 @@ public class PostOrderTreeTraversal {
      * Description:
      * This is the PostOrder Tree Traversal using Recursion
      *
+     * Time Complexity: Theta(n) since we are visiting all nodes to do this operation
+     * Space Complexity: O(h) since it depends on how tall the tree is and how far we have to go down
+     *
      */
     public static void postOrder(TreeNode node) {
         if (node == null) {
@@ -26,6 +29,9 @@ public class PostOrderTreeTraversal {
      * This is the PostOrder Tree Traversal using Iteration
      * stack1 helps traverse the tree
      * stack2 keeps the order that I need to help print them out
+     *
+     * Time Complexity: Theta(n) since we are visiting all nodes to do this operation
+     * Space Complexity: O(h) since it depends on how tall the tree is and how far we have to go down
      *
      */
     public static void iterativePostOrder(TreeNode node) {
